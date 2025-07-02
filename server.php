@@ -1,7 +1,9 @@
 <?php 
-$USER = "V_D";
+#$USER = "V_D";
+$USER = "leekmikan_vocalos";
 $DSN = "mysql:host=localhost;dbname=leekmikan_vocalos";
-$PASS = "UKIMENUSTAH";
+#$PASS = "UKIMENUSTAH";
+$PASS = "M831r1227r130";
 $SEARCH = 100;
 function mk_header(){
     echo '<button onclick="location.href=\'../index.php\'">ホーム</button>';

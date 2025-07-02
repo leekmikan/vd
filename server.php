@@ -1,6 +1,6 @@
 <?php 
 $USER = "V_D";
-$DSN = "mysql:host=s323.xrea.com;dbname=vocalos";
+$DSN = "mysql:host=localhost;dbname=leekmikan_vocalos";
 $PASS = "UKIMENUSTAH";
 $SEARCH = 100;
 function mk_header(){

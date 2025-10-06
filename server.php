@@ -3,7 +3,8 @@
 $USER = "leekmikan_vocalos";
 $DSN = "mysql:host=localhost;dbname=leekmikan_vocalos";
 #$PASS = "UKIMENUSTAH";
-$PASS = "M831r1227r130";
+#公開用に隠す.(メモ:3人)
+$PASS = "???";
 $SEARCH = 100;
 function mk_header(){
     echo '<button onclick="location.href=\'../index.php\'">ホーム</button>';
